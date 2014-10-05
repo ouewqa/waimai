@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../app" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../yii-1.1.15.022a51" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../yii-1.1.15.022a51" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="sass-stdlib" level="application" />
+  </component>
+</module>
+

@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="f82c778b-e8de-4755-86e1-9fc05145deeb" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="app template.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="app template" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ShopDishController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app/protected/modules/member/controllers/ShopDishController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="20" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="3864">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_form.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/shopDish/_form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="59" selection-start="915" selection-end="915" vertical-scroll-proportion="0.0" vertical-offset="576" max-vertical-offset="2112">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShopDishCategory.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app/protected/models/ShopDishCategory.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="108" column="20" selection-start="3131" selection-end="3131" vertical-scroll-proportion="0.0" vertical-offset="2592" max-vertical-offset="2904">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cron.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app/protected/views/mail/cron.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="6" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="216">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/shopDish/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="0" selection-start="326" selection-end="577" vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="2304">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/shopDishAlbum/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="4" selection-start="618" selection-end="767" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="2376">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_view.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/shopDishAlbum/_view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="3" selection-start="82" selection-end="84" vertical-scroll-proportion="0.0" vertical-offset="96" max-vertical-offset="384">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShopDishAlbum.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app/protected/models/ShopDishAlbum.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="20" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="2688">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/default/test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="9" selection-start="955" selection-end="1298" vertical-scroll-proportion="0.0" vertical-offset="1008" max-vertical-offset="1152">
+              <folding>
+                <marker date="1407242140100" expanded="true" signature="17:940" placeholder="..." />
+                <marker date="1407242140100" expanded="true" signature="963:1297" placeholder="..." />
+                <marker date="1407242140100" expanded="true" signature="1005:1288" placeholder="{...}" />
+                <marker date="1407242140100" expanded="true" signature="1029:1281" placeholder="{...}" />
+                <marker date="1407242140100" expanded="true" signature="1078:1271" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/default/register.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/css/login.css" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/default/login.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/layouts/non_member.php" />
+        <option value="$PROJECT_DIR$/../app/protected/modules/default/views/layouts/main.php" />
+        <option value="$PROJECT_DIR$/../app/protected/modules/default/views/default/index.php" />
+        <option value="$PROJECT_DIR$/../app/themes/front/views/default/default/index.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/layouts/_menu.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/default/index.php" />
+        <option value="$PROJECT_DIR$/../app/themes/front/views/layouts/main.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/layouts/member.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/shop/create.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/default/_verify_mobile.php" />
+        <option value="$PROJECT_DIR$/../app/protected/components/BackendController.php" />
+        <option value="$PROJECT_DIR$/../app/protected/views/mail/emailVerify.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/default/setting.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/default/_verify_email.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/weixinAccount/create.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/weixinAccount/index.php" />
+        <option value="$PROJECT_DIR$/../app/protected/views/layouts/mail.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/weixinAccount/update.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/default/changePassword.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/default/verify.php" />
+        <option value="$PROJECT_DIR$/../yii-1.1.15.022a51/framework/web/CBaseController.php" />
+        <option value="$PROJECT_DIR$/../app/protected/models/CateArea.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/shop/_form.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/shop/update.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/weixinAccount/_form.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/shop/index.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/shopDishCategory/create.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/shopDishCategory/_form.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/shopDishCategory/index.php" />
+        <option value="$PROJECT_DIR$/../app/protected/helpers/OutputHelper.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/shopDish/create.php" />
+        <option value="$PROJECT_DIR$/../app/protected/extensions/yiiwheels/widgets/fineuploader/WhFineUploader.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/css/style.css" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/weixinMenu/index.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/weixinMessage/index.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/weixin/_search.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/weixin/index.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/weixinGroup/index.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/default/dashboard.php" />
+        <option value="$PROJECT_DIR$/../app/protected/models/ShopDish.php" />
+        <option value="$PROJECT_DIR$/../app/protected/models/ShopDishCategory.php" />
+        <option value="$PROJECT_DIR$/../app/protected/modules/member/controllers/ShopDishCategoryController.php" />
+        <option value="$PROJECT_DIR$/../app/protected/modules/member/controllers/ShopDishController.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/shopDish/_form.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/shopDish/index.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/shopDishAlbum/index.php" />
+        <option value="$PROJECT_DIR$/../app/protected/models/ShopDishAlbum.php" />
+        <option value="$PROJECT_DIR$/../app/themes/classic/views/member/shopDishAlbum/_view.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="E:\Dropbox\xampp\htdocs\waimai\yii-1.1.15.022a51" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers ProjectPane="true" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.jetbrains.php.config.PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.jetbrains.php.config.PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP" />
+              <option name="myItemType" value="com.jetbrains.php.config.PhpExternalLibrariesNodePatcher$PatchedLibraryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yii-1.1.15.022a51" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.jetbrains.php.config.PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP" />
+              <option name="myItemType" value="com.jetbrains.php.config.PhpExternalLibrariesNodePatcher$PatchedLibraryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yii-1.1.15.022a51" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.jetbrains.php.config.PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP" />
+              <option name="myItemType" value="com.jetbrains.php.config.PhpExternalLibrariesNodePatcher$PatchedLibraryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yii-1.1.15.022a51" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.jetbrains.php.config.PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP" />
+              <option name="myItemType" value="com.jetbrains.php.config.PhpExternalLibrariesNodePatcher$PatchedLibraryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yii-1.1.15.022a51" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.jetbrains.php.config.PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP" />
+              <option name="myItemType" value="com.jetbrains.php.config.PhpExternalLibrariesNodePatcher$PatchedLibraryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yii-1.1.15.022a51" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CHtml.php" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpFileNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CHtml" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="console" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="member" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weixinMessage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="member" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weixinMenu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="member" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="member" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopDishAlbum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="member" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mail" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="member" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="member" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ShopDishAlbum.php" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpFileNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../yii-1.1.15.022a51" />
+    <property name="options.lastSelected" value="web-ide.project.structure" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Dropbox\xampp\htdocs\waimai\app\themes\classic\views\member\default" />
+      <recent name="E:\Dropbox\xampp\htdocs\waimai\app\themes\classic\views\member\weixinAccount" />
+      <recent name="E:\Dropbox\xampp\htdocs\waimai\app\themes\classic\views\layouts" />
+      <recent name="E:\Dropbox\xampp\htdocs\waimai\app\protected\modules\default\views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="c10a5c88-e020-41f5-9f57-b9cfaa716561" server_name="hanjia duplicate">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Dropbox\xampp\htdocs\waimai\app template" />
+          <option name="myCopyRoot" value="E:\Dropbox\xampp\htdocs\waimai\app template" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Dropbox\xampp\htdocs\waimai\app template" />
+          <option name="myCopyRoot" value="E:\Dropbox\xampp\htdocs\waimai\app template" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f82c778b-e8de-4755-86e1-9fc05145deeb" name="Default" comment="" />
+      <created>1406946103145</created>
+      <updated>1406946103145</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921347" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921347" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15438034" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.09455128" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17628205" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921347" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/default/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="6" selection-start="359" selection-end="359" vertical-scroll-proportion="-39.272728" vertical-offset="0" max-vertical-offset="1584" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/default/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="75" selection-start="534" selection-end="589" vertical-scroll-proportion="0.12727273" vertical-offset="471" max-vertical-offset="1296" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/sass/lib/stubs/sass_functions.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="35" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="18480" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/default/setting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="76" selection-start="1330" selection-end="1330" vertical-scroll-proportion="0.6218182" vertical-offset="399" max-vertical-offset="1248" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/default/_verify_email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="108" column="50" selection-start="3171" selection-end="3171" vertical-scroll-proportion="0.4181818" vertical-offset="2247" max-vertical-offset="3072" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/weixinAccount/create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="12" selection-start="317" selection-end="317" vertical-scroll-proportion="0.49454546" vertical-offset="0" max-vertical-offset="825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/protected/extensions/yiistrap-master/widgets/TbGridView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="106" selection-start="507" selection-end="589" vertical-scroll-proportion="0.3546798" vertical-offset="0" max-vertical-offset="2520" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/protected/views/mail/email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="23" selection-start="31" selection-end="31" vertical-scroll-proportion="-1.4545455" vertical-offset="0" max-vertical-offset="192" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/protected/views/mail/emailVerify.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="22" selection-start="56" selection-end="56" vertical-scroll-proportion="-0.72727275" vertical-offset="0" max-vertical-offset="168" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/protected/views/layouts/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="12" selection-start="682" selection-end="682" vertical-scroll-proportion="0.6109091" vertical-offset="0" max-vertical-offset="825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/weixinAccount/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="18" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="672" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/default/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="770" selection-end="770" vertical-scroll-proportion="0.0" vertical-offset="552" max-vertical-offset="1680" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/default/changePassword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="70" selection-start="948" selection-end="967" vertical-scroll-proportion="0.0" vertical-offset="552" max-vertical-offset="1392" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../yii-1.1.15.022a51/framework/web/CBaseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="160" column="5" selection-start="5970" selection-end="5970" vertical-scroll-proportion="0.40764332" vertical-offset="3352" max-vertical-offset="7224" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/default/verify.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="30" selection-start="76" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="864" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/protected/extensions/yiistrap-master/widgets/TbActiveForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="700" column="20" selection-start="28914" selection-end="28914" vertical-scroll-proportion="0.05732484" vertical-offset="16611" max-vertical-offset="17592" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/protected/models/CateArea.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="0" selection-start="3636" selection-end="3636" vertical-scroll-proportion="-12.030303" vertical-offset="2363" max-vertical-offset="3240" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/shop/create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="10" selection-start="165" selection-end="165" vertical-scroll-proportion="-9.454545" vertical-offset="0" max-vertical-offset="504" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/shop/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="14" selection-start="454" selection-end="454" vertical-scroll-proportion="-14.545455" vertical-offset="0" max-vertical-offset="672" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/protected/yiic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="831" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/shopDishCategory/_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="879" selection-end="879" vertical-scroll-proportion="-12.636364" vertical-offset="111" max-vertical-offset="936" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/shopDishCategory/create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="14" selection-start="371" selection-end="371" vertical-scroll-proportion="-6.6885247" vertical-offset="0" max-vertical-offset="600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/shop/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="10" selection-start="323" selection-end="610" vertical-scroll-proportion="-18.90909" vertical-offset="0" max-vertical-offset="1584" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/shop/_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="10" selection-start="3857" selection-end="4334" vertical-scroll-proportion="0.0" vertical-offset="2140" max-vertical-offset="3456" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/protected/extensions/yiiwheels/widgets/maskmoney/WhMaskMoney.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="6" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0" vertical-offset="312" max-vertical-offset="1920" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/weixinAccount/_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="0" selection-start="1773" selection-end="1989" vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="2160" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/protected/helpers/OutputHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1840" column="48" selection-start="48128" selection-end="48149" vertical-scroll-proportion="0.0" vertical-offset="43711" max-vertical-offset="62880" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/shopDishCategory/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="604" selection-end="2263" vertical-scroll-proportion="0.0" vertical-offset="316" max-vertical-offset="1872" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/shopDish/create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="12" selection-start="337" selection-end="337" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/protected/extensions/yiiwheels/widgets/fineuploader/WhFineUploader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="31" selection-start="1241" selection-end="1241" vertical-scroll-proportion="0.0" vertical-offset="1368" max-vertical-offset="4392" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="249" column="19" selection-start="4438" selection-end="4438" vertical-scroll-proportion="0.0" vertical-offset="4932" max-vertical-offset="7368" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/weixinMenu/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="6" selection-start="216" selection-end="1592" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="3144" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/weixinMessage/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="4" selection-start="161" selection-end="642" vertical-scroll-proportion="0.0" vertical-offset="79" max-vertical-offset="2232" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/weixin/_search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="0" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="1043" max-vertical-offset="1800" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/weixinAccount/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="473" selection-end="735" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="1920" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/weixin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="0" selection-start="2486" selection-end="2749" vertical-scroll-proportion="0.0" vertical-offset="1440" max-vertical-offset="3360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/weixinGroup/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="8" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="1224" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/default/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="9" selection-start="860" selection-end="866" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="624" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/protected/models/ShopDish.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="152" column="5" selection-start="5746" selection-end="5746" vertical-scroll-proportion="0.0" vertical-offset="3055" max-vertical-offset="3840" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/protected/modules/member/controllers/ShopDishCategoryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="50" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0" vertical-offset="219" max-vertical-offset="3864" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/protected/views/mail/cron.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="6" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="216">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/protected/modules/member/controllers/ShopDishController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="20" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="3864">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/shopDish/_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="59" selection-start="915" selection-end="915" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="2112">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/protected/models/ShopDishCategory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="108" column="20" selection-start="3131" selection-end="3131" vertical-scroll-proportion="0.0" vertical-offset="2055" max-vertical-offset="2904">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/shopDish/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="326" selection-end="577" vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="2304">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/protected/extensions/yiistrap-master/helpers/TbHtml.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="41" selection-start="3286" selection-end="3293" vertical-scroll-proportion="0.34649682" vertical-offset="1816" max-vertical-offset="104520" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/default/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="9" selection-start="955" selection-end="1298" vertical-scroll-proportion="0.0" vertical-offset="1008" max-vertical-offset="1152">
+          <folding>
+            <marker date="1407242140100" expanded="true" signature="17:940" placeholder="..." />
+            <marker date="1407242140100" expanded="true" signature="963:1297" placeholder="..." />
+            <marker date="1407242140100" expanded="true" signature="1005:1288" placeholder="{...}" />
+            <marker date="1407242140100" expanded="true" signature="1029:1281" placeholder="{...}" />
+            <marker date="1407242140100" expanded="true" signature="1078:1271" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/shopDishAlbum/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="4" selection-start="618" selection-end="767" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="2376">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/protected/models/ShopDishAlbum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="20" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="2688">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../yii-1.1.15.022a51/framework/web/helpers/CHtml.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="437" column="27" selection-start="15914" selection-end="15914" vertical-scroll-proportion="0.34649682" vertical-offset="10048" max-vertical-offset="62736" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/themes/classic/views/member/shopDishAlbum/_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="3" selection-start="82" selection-end="84" vertical-scroll-proportion="0.0" vertical-offset="96" max-vertical-offset="384">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

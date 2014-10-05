@@ -1,0 +1,11 @@
+支付授权目录	http://mall.diandanbao.com/shop/L1004116902/
+支付请求实例	http://mall.diandanbao.com/shop/L1004116902/client
+维权通知url	http://mall.diandanbao.com/shop/L1004116902/weixinpay/priority_notify
+告警通知url	http://mall.diandanbao.com/shop/L1004116902/weixinpay/warning
+
+
+
+支付授权目录	http://mall.diandanbao.com/weixinpay/100000/
+支付请求实例	http://mall.diandanbao.com/weixinpay/100000/client
+维权通知url	http://mall.diandanbao.com/weixinpay/100000/priority_notify
+告警通知url	http://mall.diandanbao.com/weixinpay/100000/warning
