@@ -1,0 +1,3 @@
+
+abc~~~
+<?php echo $content; ?>

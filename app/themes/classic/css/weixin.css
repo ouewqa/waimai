@@ -1,0 +1,352 @@
+/*
+覆盖原有的样式 START
+*/
+a {
+    color: #2bb2a3;
+}
+
+p{
+    color: #333333;
+}
+
+a.tel {
+    background: url(/images/phone_call_icon.png) no-repeat;
+    padding-left: 30px;
+    font-size: 20px;
+    line-height: 35px;
+    margin: 10px 0;
+    display: inline-block;
+}
+
+header a{
+    color: #ffffff;
+}
+
+.title {
+    background: #2bb2a3;
+    color: #ffffff;
+}
+
+.bar {
+    background: #2bb2a3;
+    color: #ffffff;
+}
+
+
+.bar-header-secondary{
+    background-color: rgba(247,247,247,.98);
+    border-bottom: 0;
+    -webkit-box-shadow: 0 0 1px rgba(0,0,0,.85);
+    box-shadow: 0 0 1px rgba(0,0,0,.2);
+}
+
+
+.segmented-control{
+    border: 1px solid #CCCCCC;
+}
+.segmented-control .control-item{
+    border-color: #CCCCCC;
+}
+
+.segmented-control .control-item.active {
+    color: #fff;
+    background-color: #2bb2a3;
+}
+
+
+
+.bar-tab .tab-item {
+    color: #ffffff;
+}
+
+.bar-tab .tab-item.active, .bar-tab .tab-item:active {
+    color: #ffffff;
+    background: rgba(0,0,0,.1);
+}
+.popover:before{
+    border-bottom: 15px solid #2bb2a3;
+}
+
+
+.content > .table-view:first-child {
+    margin: 0;
+}
+
+.table-view .active {
+    background: #DDDDDD;
+}
+
+.input-group input {
+    background-position: 0px 100%;
+}
+
+.table-view .table-view-cell {
+    background-position: 0px 100%;
+}
+
+img {
+    width: auto\9;
+    height: auto;
+    max-width: 100%;
+    vertical-align: middle;
+    border: 0;
+    -ms-interpolation-mode: bicubic;
+}
+
+a small {
+    font-size: 16px;
+    position: relative;
+    top: -2px;
+}
+
+/*
+覆盖原有的样式　END
+*/
+
+.clear {
+    clear: both;
+}
+
+blockquote {
+    border-left: 5px solid #dddddd;
+    padding: 5px 5px 5px 10px;
+    margin: 10px 0;
+    #background: #ddd;
+    color: #999;
+}
+
+/*#btn_shoppingcart {
+    background: #7cdda2;
+    color: #008d47;
+    border: 1px solid #00cb71;
+}*/
+
+.btn_order {
+    color: #FFF;
+    background: #2bb2a3;
+    border: 1px solid #2dc6b7;
+}
+
+#shoppingCart_count {
+    color: #fff;
+    font-weight: bold;
+}
+
+#table-cart {
+    width: 100%;
+    background-color: transparent;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+#table-cart thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+#table-cart tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+#table-cart thead th {
+    vertical-align: bottom;
+}
+
+#table-cart tfoot {
+    background: #e4e4e4;
+    color: #333333;
+}
+
+.table-view-column {
+    background: #2bb2a3;
+    color: #fff;
+}
+
+.color-normal p {
+    color: #333333;
+    line-height: 24px;
+}
+
+#table-cart th {
+    font-weight: bold;
+}
+
+#table-cart th, #table-cart td {
+    padding: 8px 2px;
+    line-height: 20px;
+    text-align: center;
+    vertical-align: top;
+
+    border-top: 1px solid #ddd;
+}
+
+#table-cart tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+#table-cart .btn_oprate {
+    padding: 2px 14px;
+    margin-bottom: 0;
+    font-size: 18px;
+    line-height: 18px;
+    color: #333;
+    text-align: center;
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+    vertical-align: middle;
+    cursor: pointer;
+    background-color: #f5f5f5;
+    background-image: -moz-linear-gradient(top, #fff, #e6e6e6);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fff), to(#e6e6e6));
+    background-image: -webkit-linear-gradient(top, #fff, #e6e6e6);
+    background-image: -o-linear-gradient(top, #fff, #e6e6e6);
+    background-image: linear-gradient(to bottom, #fff, #e6e6e6);
+    background-repeat: repeat-x;
+    border: 1px solid #ccc;
+    border-color: #e6e6e6 #e6e6e6 #bfbfbf;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+    border-bottom-color: #b3b3b3;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe6e6e6', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+    -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+
+}
+
+#table-cart .btn_add {
+    width: 50px;
+
+}
+
+#table-cart .btn_sub {
+    width: 50px;
+}
+
+.pagination {
+    text-align: center;
+    margin: 10px 0;
+}
+
+ul.yiiPager {
+    font-size: 11px;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    line-height: 100%;
+    display: inline;
+}
+
+ul.yiiPager li {
+    display: inline;
+}
+
+ul.yiiPager a:link,
+ul.yiiPager a:visited {
+    border: solid 1px #9aafe5;
+    font-weight: bold;
+    color: #0e509e;
+    padding: 1px 6px;
+    text-decoration: none;
+}
+
+ul.yiiPager .page a {
+    font-weight: normal;
+}
+
+ul.yiiPager a:hover {
+    border: solid 1px #0e509e;
+}
+
+ul.yiiPager .selected a {
+    background: #2e6ab1;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+ul.yiiPager .hidden a {
+    border: solid 1px #DEDEDE;
+    color: #888888;
+}
+
+/**
+ * Hide first and last buttons by default.
+ */
+ul.yiiPager .first,
+ul.yiiPager .last {
+    display: none;
+}
+
+ul.yiiPager a:link,
+ul.yiiPager a:visited {
+    border: solid 1px #dddddd;
+    font-weight: bold;
+    color: #666666;
+    padding: 6px 16px;
+    text-decoration: none;
+}
+
+ul.yiiPager .active a:link {
+    background: #dddddd;
+    font-weight: bold;
+    color: #0e509e;
+}
+
+ul.yiiPager .page a {
+    font-weight: normal;
+}
+
+ul.yiiPager a:hover {
+    border: solid 1px #dddddd;
+}
+
+ul.yiiPager .selected a {
+    background: #DDDDDD;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+ul.yiiPager .hidden a {
+    border: solid 1px #DEDEDE;
+    color: #888888;
+}
+
+/*错误提示*/
+
+.errorSummary {
+    padding: 10px;
+    background: #f4f4f4;
+}
+
+.errorSummary p {
+    color: #FF0000;
+    font-weight: bold;
+}
+
+.errorSummary ul {
+    color: #666;
+}
+
+.ajaxTips {
+    width: 100%;
+    text-align: center;
+    color: #888888;
+    margin-top: 50px;
+}
+
+#cateArea {
+    margin-top: 10px;
+}
+
+#cateArea select {
+    width: 30%;
+    float: left;
+    margin: 0 10px 0 0;
+}

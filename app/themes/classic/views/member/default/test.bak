@@ -1,0 +1,204 @@
+<?php
+
+
+
+Yii::app()->end();
+Yii::app()->clientScript->registerCoreScript('noty');
+
+echo CHtml::image('http://waimai.com/attachments/user/4/images/20140812/1407820578110204.jpg');
+?>
+<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=IW9wkmFI01NEvdq1kGRgZb8Z"></script>
+
+<style type="text/css">
+    #allmap {
+
+        width: 530px;
+        height: 400px;
+        overflow: hidden;
+        margin: 0;
+    }
+</style>
+
+
+<div class="form">
+    <?php
+
+    /*$form = $this->beginWidget('CActiveForm', array(
+
+            'htmlOptions' => array('enctype' => 'multipart/form-data'),
+    )); */
+    ?>
+
+    <?php
+    $this->widget(
+            'yiiwheels.widgets.fileupload.WhFileUpload',
+            array(
+                    'name' => 'upfile',
+                    'url' => Yii::app()->createUrl('/member/fileUpload/yiiWheels', array('action' => 'uploadimage')),
+                    'multiple' => true,
+                    'options' => array(
+                            'dataType' => 'json',
+                            'completed' => 'js:function(e, data){
+                                     $.each(data.result, function(i, file){
+                                        insertShopDishAlbum(file);
+                                    });
+
+                            }'
+
+                    )
+            )
+    );
+    ?>
+    <?php /*$this->endWidget(); */ ?>
+</div><!-- form -->
+
+
+<!-- Button to trigger modal -->
+<a href="#myModal" role="button" class="btn" data-toggle="modal">查看演示案例</a>
+
+<!-- Modal -->
+<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h3 id="myModalLabel">Modal header</h3>
+    </div>
+    <div class="modal-body">
+        <div id="allmap"></div>
+    </div>
+    <div class="modal-footer">
+        <button class="btn" data-dismiss="modal" aria-hidden="true">关闭</button>
+        <button class="btn btn-primary">Save changes</button>
+    </div>
+</div>
+
+
+<script>
+    function insertShopDishAlbum (file) {
+        if (file.url) {
+            console.log(file.url);
+            /* $.post("test.php", { "func": "getNameAndTime" },
+             function (data) {
+             alert(data.name); // John
+             console.log(data.time); //  2pm
+             }, "json");*/
+        }
+
+    }
+
+
+    function initMap (city, address) {
+
+        var map = new BMap.Map('allmap');
+
+        // 创建地址解析器实例
+        var myGeo = new BMap.Geocoder();
+        // 将地址解析结果显示在地图上,并调整地图视野
+        myGeo.getPoint(address, function (point) {
+
+            console.log('中心位置', point);
+            if (point) {
+
+
+                map.centerAndZoom(point, 18);
+
+
+                //移动到中心点
+                window.setTimeout(function () {
+                    map.panTo(point);
+                }, 1000);
+
+
+                //允许缩放
+                map.enableScrollWheelZoom();
+
+                //放大缩小
+                map.addControl(new BMap.NavigationControl());
+
+                //添加默认缩略地图控件
+                map.addControl(new BMap.OverviewMapControl());
+                map.addControl(new BMap.OverviewMapControl({isOpen: false, anchor: BMAP_ANCHOR_BOTTOM_RIGHT}));
+
+                //由于有3D图，需要设置城市哦
+                //map.setCurrentCity(city);
+
+
+                var icon = new BMap.Icon('/images/baidu_map_pin.png', new BMap.Size(20, 32), {
+                    anchor: new BMap.Size(10, 30),
+                    infoWindowAnchor: new BMap.Size(10, 0)
+                })
+
+                var marker = new BMap.Marker(point, {
+                    icon: icon,
+                    enableDragging: true,
+                    raiseOnDrag: true
+                });
+
+                map.addOverlay(marker);
+
+                marker.addEventListener('dragend', function (e) {
+                    console.log(e.point.lng + ', ' + e.point.lat);
+                });
+
+                var label = new BMap.Label("将我移到你的当前位置", {offset: new BMap.Size(20, -10)});
+                marker.setLabel(label);
+
+
+            } else {
+                alert('请先设置地址！');
+            }
+
+        }, city);
+
+
+        /*
+         */
+
+    }
+
+    $(document).ready(function () {
+
+
+        initMap('深圳市', '深圳市南山区科举科学园');
+
+
+        /*var n = noty({
+         text: 'noty - a jquery notification library!',
+         timeout: 5000,
+         force: true
+         });
+
+         $.noty.defaults = {
+         layout: 'top',
+         theme: 'defaultTheme',
+         type: 'alert',
+         text: '111111111111111111', // can be html or string
+         dismissQueue: true, // If you want to use queue feature set this true
+         template: '<div class="noty_message"><span class="noty_text"></span><div class="noty_close"></div></div>',
+         animation: {
+         open: {height: 'toggle'},
+         close: {height: 'toggle'},
+         easing: 'swing',
+         speed: 500 // opening & closing animation speed
+         },
+         timeout: false, // delay for closing event. Set false for sticky notifications
+         force: false, // adds notification to the beginning of queue when set to true
+         modal: false,
+         maxVisible: 5, // you can set max visible notification for dismissQueue true option,
+         killer: false, // for close all notifications before show
+         closeWith: ['click'], // ['click', 'button', 'hover']
+         callback: {
+         onShow: function () {
+         },
+         afterShow: function () {
+         },
+         onClose: function () {
+         },
+         afterClose: function () {
+         }
+         },
+         buttons: false // an array of buttons
+         };*/
+
+
+    })
+</script>
