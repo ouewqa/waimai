@@ -21,6 +21,9 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
+
+
 # 隐藏的文件及文件夹
+.gitattributes
 Docs/
 app template/
