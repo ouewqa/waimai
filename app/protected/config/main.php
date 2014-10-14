@@ -59,9 +59,9 @@ return array(
         'components' => array(
                 'alipay' => array(
                         'class' => 'application.vendors.alipay.AlipayProxy',
-                        'key' => 'z92pgvbjpe1up86kuuhhfiic3i0y70zw',
-                        'partner' => '2088002159770241',
-                        'seller_email' => 'imsave@gmail.com',
+                        'key' => '**********',
+                        'partner' => '**********',
+                        'seller_email' => '**********',
                         'return_url' => '/member/public/alipayReturn',
                         'notify_url' => '/member/public/alipayNotify',
                         'show_url' => '',
@@ -70,7 +70,7 @@ return array(
                         'class' => 'application.vendors.tenpay.TenpayProxy',
                         'partner' => '2088801162173***', // your partner id
                         'key' => '***om2l8gxuvca9gtniqbextf4y66***', // your key
-                        'seller_id' => '6772017@qq.com',
+                        'seller_id' => '**********',
                         'return_url' => '/member/public/tenpayReturn',
                         'notify_url' => '/member/public/tenpayNotify',
                         'show_url' => '',
